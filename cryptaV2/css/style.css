@@ -473,7 +473,7 @@ button {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  min-height: 950px;
   padding-bottom: 250px;
   position: relative;
 }
