@@ -282,9 +282,18 @@ button {
 
 .d_flex {
   display: flex;
-  align-items: center;
   flex-wrap: wrap;
 }
+.imgwidth {
+  width: 320px;
+  height: 175px;
+}
+.nostrud{
+  padding-bottom: 2rem;
+}
+
+
+
 .read_more_div{
     width:100;
     min-height: 50px;

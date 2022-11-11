@@ -89,7 +89,7 @@ File Name: responsive.css
 .logo a::before {
     position: absolute;
     content: "";
-    top:-33px;
+    top:-15px;
     background: url(https://assets.website-files.com/624f34ee3b91afefdf14076f/62609d728a62a0e0a4b04d92_logo-blockchain-template.svg);
     width: 245px;
     height: 55px;
@@ -302,8 +302,8 @@ line-height: 25px;}
         order: -1;
     }
 .titlepage h2 {
-font-size: 29px;
-line-height: 30px;
+    font-size: 29px;
+    line-height: 39px;
 }
 .not-found {
     font-size: 200px;
